@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/AnwarArCoder/personal-react/static/css/main.945b811a.css",
+    "main.js": "/AnwarArCoder/personal-react/static/js/main.966c1ab5.js",
+    "static/js/787.ab590b9d.chunk.js": "/AnwarArCoder/personal-react/static/js/787.ab590b9d.chunk.js",
+    "static/media/about-bg.jpg": "/AnwarArCoder/personal-react/static/media/about-bg.973f25157e118ea212ef.jpg",
+    "static/media/home-bg.jpg": "/AnwarArCoder/personal-react/static/media/home-bg.14eacc1c4c641a9e0e83.jpg",
+    "index.html": "/AnwarArCoder/personal-react/index.html",
+    "main.945b811a.css.map": "/AnwarArCoder/personal-react/static/css/main.945b811a.css.map",
+    "main.966c1ab5.js.map": "/AnwarArCoder/personal-react/static/js/main.966c1ab5.js.map",
+    "787.ab590b9d.chunk.js.map": "/AnwarArCoder/personal-react/static/js/787.ab590b9d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.945b811a.css",
+    "static/js/main.966c1ab5.js"
+  ]
+}
